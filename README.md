@@ -1,1 +1,3 @@
-# performance-marketing-app-catalog
+# Performance Marketing App Catalog
+
+A GiantSwarm app catalog for Performance Marketing managed applications.
