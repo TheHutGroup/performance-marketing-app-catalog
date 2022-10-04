@@ -3,7 +3,17 @@ entries:
   criteo-mock-service:
   - apiVersion: v2
     appVersion: v0.0.2
-    created: "2022-09-30T08:49:00.994017419Z"
+    created: "2022-10-04T09:43:46.201445529Z"
+    description: A Helm chart for Criteo Mock Service
+    digest: 6fb9f861df3788b31e4348dfaa66ed45b9c02179d86da418829f021f183c69cc
+    name: criteo-mock-service
+    type: application
+    urls:
+    - https://TheHutGroup.github.io/performance-marketing-app-catalog/criteo-mock-service-0.0.5.tgz
+    version: 0.0.5
+  - apiVersion: v2
+    appVersion: v0.0.2
+    created: "2022-10-04T09:43:46.20088452Z"
     description: A Helm chart for Criteo Mock Service
     digest: 080730d067441089103e218feb9d1c8dbdfc013a73af8785da127c785a94041d
     name: criteo-mock-service
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://TheHutGroup.github.io/performance-marketing-app-catalog/criteo-mock-service-0.0.4.tgz
     version: 0.0.4
-generated: "2022-09-30T08:49:00.99311951Z"
+generated: "2022-10-04T09:43:46.198156775Z"
