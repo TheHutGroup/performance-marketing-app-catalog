@@ -3,7 +3,17 @@ entries:
   criteo-mock-service:
   - apiVersion: v2
     appVersion: v0.0.19
-    created: "2023-10-24T09:49:03.971985028Z"
+    created: "2024-12-24T10:51:28.148528496Z"
+    description: A Helm chart for Criteo Mock Service
+    digest: 7ef9cf3f83721e8035893258c92b71e88b3146f751863d88f09bcdc7dce5c45b
+    name: criteo-mock-service
+    type: application
+    urls:
+    - https://TheHutGroup.github.io/performance-marketing-app-catalog/criteo-mock-service-0.0.21.tgz
+    version: 0.0.21
+  - apiVersion: v2
+    appVersion: v0.0.19
+    created: "2024-12-24T10:51:28.148162813Z"
     description: A Helm chart for Criteo Mock Service
     digest: fbdce067639cd860657c1fdfe5cefdfb6889e379dc55879d6638c6585f3c5ed5
     name: criteo-mock-service
@@ -13,7 +23,7 @@ entries:
     version: 0.0.19
   - apiVersion: v2
     appVersion: v0.0.18
-    created: "2023-10-24T09:49:03.969638598Z"
+    created: "2024-12-24T10:51:28.147801379Z"
     description: A Helm chart for Criteo Mock Service
     digest: 25bb4437f245486e5fe40bfa571faa39ce918c79ad3bb1037cdcc1b9c30eec29
     name: criteo-mock-service
@@ -23,7 +33,7 @@ entries:
     version: 0.0.18
   - apiVersion: v2
     appVersion: v0.0.17
-    created: "2023-10-24T09:49:03.969087092Z"
+    created: "2024-12-24T10:51:28.147435646Z"
     description: A Helm chart for Criteo Mock Service
     digest: b101a495a9d5d47bc510b693ff81a47fc544293ae261453cea8bd4fd5d0bbc7e
     name: criteo-mock-service
@@ -33,7 +43,7 @@ entries:
     version: 0.0.17
   - apiVersion: v2
     appVersion: v0.0.16
-    created: "2023-10-24T09:49:03.968459084Z"
+    created: "2024-12-24T10:51:28.147066467Z"
     description: A Helm chart for Criteo Mock Service
     digest: 1bfbd305dfc80f1c1c890f18428100d4d1465aa5c8eee5f8dd72aeb23897fed4
     name: criteo-mock-service
@@ -43,7 +53,7 @@ entries:
     version: 0.0.16
   - apiVersion: v2
     appVersion: v0.0.15
-    created: "2023-10-24T09:49:03.967841376Z"
+    created: "2024-12-24T10:51:28.146670508Z"
     description: A Helm chart for Criteo Mock Service
     digest: a596ce0a278bc45e4b817effeb383291b46191d54910ec2260195a2a90a414ee
     name: criteo-mock-service
@@ -53,7 +63,7 @@ entries:
     version: 0.0.15
   - apiVersion: v2
     appVersion: v0.0.14
-    created: "2023-10-24T09:49:03.967254269Z"
+    created: "2024-12-24T10:51:28.146244523Z"
     description: A Helm chart for Criteo Mock Service
     digest: 18840153e25324a031c5e5366acc22e740966d11432adaf02d2a0ae3a8efcc6e
     name: criteo-mock-service
@@ -63,7 +73,7 @@ entries:
     version: 0.0.14
   - apiVersion: v2
     appVersion: v0.0.12
-    created: "2023-10-24T09:49:03.966667661Z"
+    created: "2024-12-24T10:51:28.145828807Z"
     description: A Helm chart for Criteo Mock Service
     digest: d9f223f15282154d5a4936252fda95eb48b3ae1eac14265fa2873079e5059d96
     name: criteo-mock-service
@@ -73,7 +83,7 @@ entries:
     version: 0.0.13
   - apiVersion: v2
     appVersion: v0.0.12
-    created: "2023-10-24T09:49:03.966068754Z"
+    created: "2024-12-24T10:51:28.145406499Z"
     description: A Helm chart for Criteo Mock Service
     digest: c5ea313843a843a3fc1888daffaa6f1d21d2548bab40d5addea628bb4ee81a5c
     name: criteo-mock-service
@@ -83,7 +93,7 @@ entries:
     version: 0.0.12
   - apiVersion: v2
     appVersion: v0.0.11
-    created: "2023-10-24T09:49:03.965514347Z"
+    created: "2024-12-24T10:51:28.144724366Z"
     description: A Helm chart for Criteo Mock Service
     digest: 887e154b584021cb8ecfd323510d2b7517d3235d73d2c41bec26837a6d4472b2
     name: criteo-mock-service
@@ -93,7 +103,7 @@ entries:
     version: 0.0.11
   - apiVersion: v2
     appVersion: v0.0.10
-    created: "2023-10-24T09:49:03.964896039Z"
+    created: "2024-12-24T10:51:28.143916529Z"
     description: A Helm chart for Criteo Mock Service
     digest: ffd70c330b74c5018e28e127d71c63d967c2a4cfe23c86325d618418a4d4f859
     name: criteo-mock-service
@@ -103,7 +113,7 @@ entries:
     version: 0.0.10
   - apiVersion: v2
     appVersion: v0.0.9
-    created: "2023-10-24T09:49:03.97537297Z"
+    created: "2024-12-24T10:51:28.150783975Z"
     description: A Helm chart for Criteo Mock Service
     digest: be4b5852a309301f43ad0e0a2d61f9eaaec90dff8ec7619a0374cd1ed465e598
     name: criteo-mock-service
@@ -113,7 +123,7 @@ entries:
     version: 0.0.9
   - apiVersion: v2
     appVersion: v0.0.8
-    created: "2023-10-24T09:49:03.974754063Z"
+    created: "2024-12-24T10:51:28.150419134Z"
     description: A Helm chart for Criteo Mock Service
     digest: ff1333d4badc66b599f715cf08a295205e38e2d632fc7a3335b49e9192b0633e
     name: criteo-mock-service
@@ -123,7 +133,7 @@ entries:
     version: 0.0.8
   - apiVersion: v2
     appVersion: v0.0.7
-    created: "2023-10-24T09:49:03.974199956Z"
+    created: "2024-12-24T10:51:28.150048783Z"
     description: A Helm chart for Criteo Mock Service
     digest: b8b286445c65b129587e0e810255439e54d4277c4ce338bc01500f54624f5bce
     name: criteo-mock-service
@@ -133,7 +143,7 @@ entries:
     version: 0.0.7
   - apiVersion: v2
     appVersion: v0.0.6
-    created: "2023-10-24T09:49:03.973679249Z"
+    created: "2024-12-24T10:51:28.149473289Z"
     description: A Helm chart for Criteo Mock Service
     digest: 3c87354060212799f97971272e5041f95c4c5a4f79ae88b3063ca6f6a0ab5fbc
     name: criteo-mock-service
@@ -143,7 +153,7 @@ entries:
     version: 0.0.6
   - apiVersion: v2
     appVersion: v0.0.2
-    created: "2023-10-24T09:49:03.973170343Z"
+    created: "2024-12-24T10:51:28.149168069Z"
     description: A Helm chart for Criteo Mock Service
     digest: 6fb9f861df3788b31e4348dfaa66ed45b9c02179d86da418829f021f183c69cc
     name: criteo-mock-service
@@ -153,7 +163,7 @@ entries:
     version: 0.0.5
   - apiVersion: v2
     appVersion: v0.0.2
-    created: "2023-10-24T09:49:03.972674836Z"
+    created: "2024-12-24T10:51:28.148835659Z"
     description: A Helm chart for Criteo Mock Service
     digest: 080730d067441089103e218feb9d1c8dbdfc013a73af8785da127c785a94041d
     name: criteo-mock-service
@@ -161,4 +171,4 @@ entries:
     urls:
     - https://TheHutGroup.github.io/performance-marketing-app-catalog/criteo-mock-service-0.0.4.tgz
     version: 0.0.4
-generated: "2023-10-24T09:49:03.963969327Z"
+generated: "2024-12-24T10:51:28.1425887Z"
